@@ -1,0 +1,2 @@
+wow!we are using git
+this is first test text file 
