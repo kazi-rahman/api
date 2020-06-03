@@ -1,2 +1,6 @@
 wow!we are using git
 this is first test text file 
+
+
+We have completed our first commit
+Now its time to check
