@@ -4,3 +4,6 @@ this is first test text file
 
 We have completed our first commit
 Now its time to check
+
+
+This is third attempt to check git performance
